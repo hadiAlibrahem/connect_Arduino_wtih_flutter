@@ -1,19 +1,45 @@
-# Smart Garage System
+Flutter Arduino Connection
 
-Arduino based smart garage system.
+A project that demonstrates communication between a Flutter application and an Arduino device.
 
-## Features
+Project Overview
 
-- Garage door control
-- Sensor integration
-- Communication with mobile app
+The project enables data exchange between a Flutter application and an Arduino board to control hardware components and receive sensor data.
 
-## Technologies
+Features
 
+- Communication between Flutter and Arduino
+- Sending commands from the mobile application
+- Receiving data from Arduino
+- Real-time interaction between software and hardware
+
+Technologies
+
+- Flutter
+- Dart
 - Arduino
 - C++
-- Sensors
+- Serial / Bluetooth Communication
 
-## Project Goal
+Hardware Components
 
-Connecting hardware and software to automate garage access.
+- Arduino Uno
+- Sensors / LEDs
+- HC-05 Bluetooth Module (if used)
+
+Project Structure
+
+- Flutter Application
+- Arduino Sketch
+- Communication Layer
+
+What I Learned
+
+- IoT Fundamentals
+- Communication between Software and Hardware
+- Mobile Application Development
+- Arduino Programming
+
+Author
+
+Hadi Al-Ibrahim
